@@ -30,7 +30,7 @@
 #import "Syphon_Prefix.pch"
 #import <Foundation/Foundation.h>
 #import <OpenGL/OpenGL.h>
-#import <Syphon/SyphonServerBase.h>
+#import "SyphonServerBase.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

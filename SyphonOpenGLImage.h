@@ -30,7 +30,7 @@
 #import "Syphon_Prefix.pch"
 #import <Foundation/Foundation.h>
 #import <OpenGL/OpenGL.h>
-#import <Syphon/SyphonImageBase.h>
+#import "SyphonImageBase.h"
 
 #define SYPHON_OPENGL_IMAGE_UNIQUE_CLASS_NAME SYPHON_UNIQUE_CLASS_NAME(SyphonOpenGLImage)
 

@@ -30,7 +30,7 @@
 #import "Syphon_Prefix.pch"
 #import <Foundation/Foundation.h>
 #import <OpenGL/OpenGL.h>
-#import <Syphon/SyphonClientBase.h>
+#import "SyphonClientBase.h"
 
 #define SYPHON_OPENGL_CLIENT_UNIQUE_CLASS_NAME SYPHON_UNIQUE_CLASS_NAME(SyphonOpenGLClient)
 
