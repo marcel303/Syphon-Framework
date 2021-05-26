@@ -28,6 +28,7 @@
  
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonServerRenderer.h"
 
 @class SyphonServerShader, SyphonServerVertices;

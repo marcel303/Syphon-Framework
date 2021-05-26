@@ -28,6 +28,8 @@
 
  */
 
+#include "Syphon_Prefix.pch"
+
 /*
  Syphon Dispatch handles performing a task in the background such that
  

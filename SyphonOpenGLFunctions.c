@@ -28,6 +28,7 @@
 
 */
 
+#include "Syphon_Prefix.pch"
 #include "SyphonOpenGLFunctions.h"
 #import <OpenGL/CGLMacro.h>
 #import <stdlib.h>

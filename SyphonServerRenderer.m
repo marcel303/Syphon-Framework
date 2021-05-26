@@ -28,6 +28,7 @@
  
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonServerRenderer.h"
 #import "SyphonIOSurfaceImageLegacy.h"
 

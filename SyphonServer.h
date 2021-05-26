@@ -27,6 +27,7 @@
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonOpenGLServer.h"
 
 NS_ASSUME_NONNULL_BEGIN

@@ -27,6 +27,7 @@
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonVertices.h"
 #import <OpenGL/gl3.h>
 

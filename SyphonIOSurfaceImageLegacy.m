@@ -27,6 +27,7 @@
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonIOSurfaceImageLegacy.h"
 #import <OpenGL/CGLMacro.h>
 

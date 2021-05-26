@@ -28,6 +28,7 @@
  
  */
 
+#import "Syphon_Prefix.pch"
 #import <OpenGL/OpenGL.h>
 
 GLboolean SyphonOpenGLContextSupportsExtension(CGLContextObj cgl_ctx, const char *extension);

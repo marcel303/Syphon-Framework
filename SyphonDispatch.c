@@ -27,6 +27,7 @@
 	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include "Syphon_Prefix.pch"
 #include "SyphonDispatch.h"
 // stdlib for malloc
 #include <stdlib.h>

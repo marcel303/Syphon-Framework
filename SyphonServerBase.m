@@ -5,6 +5,7 @@
 //  Created by Tom Butterworth on 26/04/2019.
 //
 
+#import "Syphon_Prefix.pch"
 #import "SyphonServerBase.h"
 #import "SyphonServerConnectionManager.h"
 #import "SyphonPrivate.h"

@@ -27,6 +27,7 @@
      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonPrivate.h"
 #import <libkern/OSAtomic.h> // For SyphonSafeBool
 

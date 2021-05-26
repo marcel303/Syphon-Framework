@@ -27,6 +27,7 @@
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonMessaging.h"
 
 //NSString * const SyphonMessagingProtocolMachMessage = @"SyphonMessagingProtocolMachMessage_v1";

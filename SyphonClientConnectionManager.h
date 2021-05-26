@@ -27,7 +27,7 @@
      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+#import "Syphon_Prefix.pch"
 #import <Foundation/Foundation.h>
 
 /* This object handles messaging to and from the server.

@@ -31,6 +31,7 @@
 #ifndef SyphonCGL_h
 #define SyphonCGL_h
 
+#include "Syphon_Prefix.pch"
 #include <OpenGL/OpenGL.h>
 #include <stdbool.h>
 

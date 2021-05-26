@@ -27,6 +27,8 @@
      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include "Syphon_Prefix.pch"
+
 #define kSyphonDictionaryVersion 0U
 
 #ifdef __OBJC__

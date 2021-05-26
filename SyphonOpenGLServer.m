@@ -27,7 +27,7 @@
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-
+#import "Syphon_Prefix.pch"
 #import "SyphonOpenGLServer.h"
 #import "SyphonOpenGLImage.h"
 #import "SyphonServerRendererLegacy.h"

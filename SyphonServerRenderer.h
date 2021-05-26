@@ -28,6 +28,7 @@
  
  */
 
+#import "Syphon_Prefix.pch"
 #import <Foundation/Foundation.h>
 #import "SyphonOpenGLImage.h"
 

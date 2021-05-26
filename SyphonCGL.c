@@ -28,6 +28,7 @@
  
  */
 
+#include "Syphon_Prefix.pch"
 #include "SyphonCGL.h"
 #include <stddef.h>
 

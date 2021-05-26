@@ -28,6 +28,7 @@
  
  */
 
+#import "Syphon_Prefix.pch"
 #import "SyphonServerRendererCore.h"
 #import "SyphonIOSurfaceImageCore.h"
 #import "SyphonServerShader.h"
